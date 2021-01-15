@@ -14,6 +14,9 @@
 
 ### Скачать
 [Н.М. Михайловская, «Музыка и дети»](Mikhailovskaia_N_M_Muzyka_i_deti.epub)
+
+Перейти по ссылке, нажать `Download`
+
 ![](download_screenshot.png)
 
 ### Содержание
